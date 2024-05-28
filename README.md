@@ -18,7 +18,7 @@ Resume Tailor is a Flask-based web application that tailors your resume based on
 1. Clone the repository and navigate to the project directory:
 
    ```bash
-   git clone https://github.com/your-username/resume_tailor.git
+   git clone https://github.com/abhisekjha/resume_tailor.git
    cd resume_tailor
     ```
 2. Create a virtual environment and activate it:
